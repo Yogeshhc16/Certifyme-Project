@@ -1,4 +1,4 @@
-# 🎓 CertifyMe – Admin Portal for Opportunity Management
+#  CertifyMe – Admin Portal for Opportunity Management
 
 A full-stack web application that allows administrators to manage opportunities such as internships, courses, and programs. Built using **Flask (Python)** for the backend and **HTML, CSS, JavaScript** for the frontend.
 
